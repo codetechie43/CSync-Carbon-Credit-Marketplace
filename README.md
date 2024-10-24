@@ -47,8 +47,6 @@ The Carbon Credit Marketplace is a decentralized application (DApp) built on the
 
 ## Demo
 
-Check out our demo video to see the Carbon Credit Marketplace in action:
-[Demo Video Link](https://youtu.be/xGx22Btn8-w)
 
 ## Setup d Installation
 
@@ -97,18 +95,5 @@ We welcome contributions to the Carbon Credit Marketplace! Please follow these s
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Team Contact Information
-
-- **Project Lead**: Ved Mohan - vedmohan0@gmail.com
-- **Resource Manager**: Ved Mohan - vedmohan0@gmail.com
-- **Lead Developer**: Tanishk Narula - tanidev69@gmail.com
-- **Blockchain Specialist**: Tanishk Narula - tanidev69@gmail.com
-- **Bridging Implementation**: Ved Mohan - vedmohan0@gmail.com
-- **UI Designer**: Sarthak Kakar - sarthak.kakar1234@gmail.com
-- **UI/UX Developer**: Tanishk Narula - tanidev69@gmail.com
-- **Tester/Debugger**: Aditya Jha - adityajha2006714@gmail.com
-
----
 
 Join us in our mission to create a more sustainable future through efficient carbon credit trading!
